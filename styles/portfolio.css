@@ -95,3 +95,19 @@ nav .meno a{
 }
 
 
+#about{
+    padding-top: 130px;
+}
+
+#about .about-container{
+    width: 59%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 131px 156px;
+    background-color: #FFF8F3;
+    text-align: center;
+}
+
+
+
+
